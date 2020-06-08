@@ -11,7 +11,7 @@ import java.awt.*;
 
 public class Main {
     JFrame frame;
-
+//Пробуем изменения
     public static void main(String[] args) {
         KofeMain kofeMain = new KofeMain();
 
