@@ -1,5 +1,5 @@
 package singleton.version2;
-
+/*
 import javafx.beans.InvalidationListener;
 import javafx.beans.Observable;
 
@@ -23,4 +23,4 @@ public class WeatherData implements Observable {
             list.remove(i);
         }
     }
-}
+}*/
